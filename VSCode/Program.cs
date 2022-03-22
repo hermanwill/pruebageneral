@@ -45,11 +45,11 @@ namespace VSCode
             }
             if(sino)
             {
-                Console.WriteLine("SI Se Cumple la Condicion");
+                Console.WriteLine("SI Se Cumple la Condicion!");
             }
             else
             {
-                Console.WriteLine("NO Se cumple la condicion");
+                Console.WriteLine("NO Se cumple la condicion!");
             }
         }
     }
