@@ -1,0 +1,13 @@
+D:\Herman\Documentos\Pruebas\pruebageneral\VSCode\bin\Debug\netcoreapp3.1\VSCode.exe
+D:\Herman\Documentos\Pruebas\pruebageneral\VSCode\bin\Debug\netcoreapp3.1\VSCode.deps.json
+D:\Herman\Documentos\Pruebas\pruebageneral\VSCode\bin\Debug\netcoreapp3.1\VSCode.runtimeconfig.json
+D:\Herman\Documentos\Pruebas\pruebageneral\VSCode\bin\Debug\netcoreapp3.1\VSCode.runtimeconfig.dev.json
+D:\Herman\Documentos\Pruebas\pruebageneral\VSCode\bin\Debug\netcoreapp3.1\VSCode.dll
+D:\Herman\Documentos\Pruebas\pruebageneral\VSCode\bin\Debug\netcoreapp3.1\VSCode.pdb
+D:\Herman\Documentos\Pruebas\pruebageneral\VSCode\obj\Debug\netcoreapp3.1\VSCode.csprojAssemblyReference.cache
+D:\Herman\Documentos\Pruebas\pruebageneral\VSCode\obj\Debug\netcoreapp3.1\VSCode.AssemblyInfoInputs.cache
+D:\Herman\Documentos\Pruebas\pruebageneral\VSCode\obj\Debug\netcoreapp3.1\VSCode.AssemblyInfo.cs
+D:\Herman\Documentos\Pruebas\pruebageneral\VSCode\obj\Debug\netcoreapp3.1\VSCode.csproj.CoreCompileInputs.cache
+D:\Herman\Documentos\Pruebas\pruebageneral\VSCode\obj\Debug\netcoreapp3.1\VSCode.dll
+D:\Herman\Documentos\Pruebas\pruebageneral\VSCode\obj\Debug\netcoreapp3.1\VSCode.pdb
+D:\Herman\Documentos\Pruebas\pruebageneral\VSCode\obj\Debug\netcoreapp3.1\VSCode.genruntimeconfig.cache
